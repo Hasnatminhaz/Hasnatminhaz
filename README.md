@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Hasnatminhaz
-- 👀 I’m interested in c..
-- 🌱 I’m currently learning .c..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .c
-- ..
 
-<!---
-Hasnatminhaz/Hasnatminhaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm [Your Hasnat] 👋
+
+CSE student exploring the world of coding.
+
+Learning new technologies and improving my skills.
+
+Interested in [your favorite tech stack or field].
+
+Always up for projects and collaboration.
+
+
+Trying to get better every day! 🚀
+
